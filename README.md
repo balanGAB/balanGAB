@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nalabGAB&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalabGAB&layout=compact&theme=merko)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-azanha-balan-7b23b52b6/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-1d803e?style=for-the-badge)](https://nalabportfolio.netlify.app)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-1d803e?style=for-the-badge)](https://balandevportfolio.netlify.app)
 
 # 🧠 Main Skills
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) 
